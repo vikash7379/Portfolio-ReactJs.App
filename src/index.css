@@ -568,11 +568,17 @@ a:hover{
     justify-content:space-around;
     text-align: center;
   }
+  .service-main{
+    height: 100%;
+  }
   .hamburger-menu{
     display: block;
     color: #fff;
     z-index: 99;
     /* font-size: 60px; */
+  }
+  #portfolio{
+    padding-top: 0px;
   }
 
   .mobile-menu-link{
@@ -599,6 +605,9 @@ a:hover{
     line-height: 3rem;
     align-items: start;
 }
+  #contact{
+    padding-top: 0px;
+  }
 
   .contact-left,
   .contact-right {
