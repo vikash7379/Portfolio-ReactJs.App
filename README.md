@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+This is fully responsive and functional website where i describe about myself .
+
+Language used --
+
+        * React.Js (Library)
+        * Css
+        * Jsx 
+         
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
