@@ -34,8 +34,8 @@ const Hero = () => {
                             I live in Delhi and my home town in Gorakhpur.
                             I want to be Frontend Developer. My main Technology are React.Js</p>
                         <div className="mt-4 ">
-                            <button className="btn ms-2 hire-btn1"><a href='mailto:jaichaurasia90@gmail.com' target="_blank">Hire Me</a></button>
-                            <button className='btn ms-5 hire-btn2'><a href='#contact'>Contact me</a></button>
+                            <button className="btn ms-2 hire-btn1"><a href='mailto:jaichaurasia90@gmail.com' target="_blank"><i className="fas fa-paper-plane"/> Hire Me</a></button>
+                            <button className='btn ms-5 hire-btn2'><a href='https://github.com/vikash7379' target="_blank"> <i className="fab fa-github"/> GitHub</a></button>
                         </div>
                     </div>
                 </Col>

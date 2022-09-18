@@ -49,7 +49,7 @@ const Header = () => {
             </div>
 
             <div className="navigation">
-              <button className="btn mt-3" id="btn-nav">
+              <button className="btn mt-3" id="btn-nav" onClick={window.location.href="#contact"}>
                 Let's Talk
               </button>
               <span

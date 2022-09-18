@@ -93,6 +93,20 @@ a:hover{
 .nav-item a:hover{
   color:#7865ff;
 }
+/* .nav-item li a::after {
+  content: "";
+  width: 0%;
+  height: 3px;
+  background: #ff004f;
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  transition: 0.5s;
+}
+
+.nav-item ul li a:hover::after {
+  width: 100%;
+} */
 #btn-nav{
   background-color: #7865ff;
   color: #fff;
@@ -178,7 +192,6 @@ a:hover{
 .hero-content{
   line-height: 30px;
   font-weight: 300;
-
 }
 
 
@@ -230,6 +243,7 @@ a:hover{
   .tab-links:hover{
     color: #07dd00;
   }
+
 
 
   .tab-content ul li {
@@ -434,7 +448,9 @@ a:hover{
     .contact-left {
       flex-basis: 35%;
     }
-
+    .contact-left a{
+      text-decoration: none;
+    }
 
     .contact-right {
       flex-basis: 60%;
